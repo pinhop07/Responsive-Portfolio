@@ -112,6 +112,13 @@
         margin-bottom: 20px;
     }
 
+    #Portfolio{
+        color: #4aaaa5;
+        border-bottom: 2px solid #cccccc;
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+
     form{
     	display:inline;   
         font-family: 'Saira Semi Condensed', sans-serif;
